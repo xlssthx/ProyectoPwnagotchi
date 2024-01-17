@@ -1,0 +1,13 @@
+main.name = "danipwnagotchi" 
+main.lang = "en" 
+main.whitelist = [ 
+"lissi-hacker", 
+] 
+main.plugins.grid.enabled = true 
+main.plugins.grid.report = true 
+main.plugins.grid.exclude = [ 
+"Esperando..." 
+] 
+ui.display.enabled = true 
+ui.display.type = "waveshare_3" 
+ui.display.color = "black" 
